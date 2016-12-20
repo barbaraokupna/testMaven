@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/testMaven-1.0-SNAPSHOT.jar
+    - testMaven-1.0-SNAPSHOT.jar
